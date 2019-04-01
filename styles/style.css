@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+header {
+  border-top: 5px dotted #2ebace;
+  border-right: 5px dotted #2ebace;
+  border-bottom: 5px dotted #2ebace;
+  border-left: 5px dotted #2ebace;
+  background-color: #ffffcc;
+}
+
+footer {
+  border-top: 5px dotted #2ebace;
+  border-right: 5px dotted #2ebace;
+  border-bottom: 5px dotted #2ebace;
+  border-left: 5px dotted #2ebace;
+  background-color: white;
+  text-align: center;
+  background-color: #ffffcc;
+}
+
+main {
+  background-color: #d9ccff;
+}
+
+span {
+  font-style: italic;
+}
+
+h1 {
+  color: #006666;
+}
+
+a { 
+  text-decoration: none
+}
+
+a:hover {
+  color: #cc9900;
+}
+
+ul {
+  list-style: none
+}
